@@ -48,14 +48,14 @@ main{
 	height: 160px;
 	background-image: url(img/flow02.png);
 	background-size: cover;
-	background-position: center;
+	background-position: bottom;
 }
 
 .image3{
 	height: 160px;
 	background-image: url(img/flow03.png);
 	background-size: cover;
-	background-position: center;
+	background-position: bottom;
 }
 
 .title{
